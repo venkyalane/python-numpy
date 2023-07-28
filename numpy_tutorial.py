@@ -1,5 +1,5 @@
 from numpy import *
-"""
+
 # 1D-array
 A = array([1,2,3,4,5,6,7,8,9,10])
 A1 = array(['apple', 'banana', 'cherry'])
@@ -333,7 +333,7 @@ for i in A:
 
 print(even_no)
 print(A[even_no])
-"""
+
 # Creating Filter Directly From Array
 arr = array([41, 42, 43, 44])
 
